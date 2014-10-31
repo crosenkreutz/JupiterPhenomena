@@ -1,0 +1,2406 @@
+---------------------------------------------------------
+                   PHENOMENA OF THE GALILEAN 
+                   SATELLITES OF JUPITER 2014 (TT)
+ 
+                   BUREAU DES LONGITUDES 
+                   77 AVENUE DENFERT ROCHEREAU
+                   F-75014 PARIS 
+----------------------------------------------------------
+                   YY  M  D HHMM.M SAT PHEN
+ 
+                    14 1  0  216.7  II EC D
+                    14 1  0  515    II OC R
+                    14 1  0 1610.5 III EC D
+                    14 1  0 17 7.3   I EC D
+                    14 1  0 1931     I OC R
+                    14 1  0 1953   III OC R
+                    14 1  1 1416     I SH I
+                    14 1  1 1423     I TR I
+                    14 1  1 1632     I SH E
+                    14 1  1 1638     I TR E
+                    14 1  1 2122    II SH I
+                    14 1  1 2134    II TR I
+                    14 1  2  0 3    II SH E
+                    14 1  2  016    II TR E
+                    14 1  2 1136.0   I EC D
+                    14 1  2 1357     I OC R
+                    14 1  3  845     I SH I
+                    14 1  3  849     I TR I
+                    14 1  3 11 0     I SH E
+                    14 1  3 11 4     I TR E
+                    14 1  3 1534.1  II EC D
+                    14 1  3 1821    II OC R
+                    14 1  3 21 5    IV SH I
+                    14 1  3 2131    IV TR I
+                    14 1  4  027    IV SH E
+                    14 1  4  056    IV TR E
+                    14 1  4  6 4.6   I EC D
+                    14 1  4  613   III SH I
+                    14 1  4  623   III TR I
+                    14 1  4  823     I OC R
+                    14 1  4  923   III SH E
+                    14 1  4  932   III TR E
+                    14 1  5  313     I SH I
+                    14 1  5  314     I TR I
+                    14 1  5  529     I SH E
+                    14 1  5  530     I TR E
+                    14 1  5 1040    II SH I
+                    14 1  5 1041    II TR I
+                    14 1  5 1321    II SH E
+                    14 1  5 1322    II TR E
+                    14 1  6  033.2   I EC D
+                    14 1  6  249.3   I EC R
+                    14 1  6 2140     I TR I
+                    14 1  6 2142     I SH I
+                    14 1  6 2355     I TR E
+                    14 1  6 2357     I SH E
+                    14 1  7  447    II OC D
+                    14 1  7  732.5  II EC R
+                    14 1  7 1859     I OC D
+                    14 1  7 1958   III OC D
+                    14 1  7 2117.9   I EC R
+                    14 1  7 2321.8 III EC R
+                    14 1  8 16 6     I TR I
+                    14 1  8 1610     I SH I
+                    14 1  8 1821     I TR E
+                    14 1  8 1826     I SH E
+                    14 1  8 2348    II TR I
+                    14 1  8 2358    II SH I
+                    14 1  9  230    II TR E
+                    14 1  9  240    II SH E
+                    14 1  9 1325     I OC D
+                    14 1  9 1546.6   I EC R
+                    14 1 10 1032     I TR I
+                    14 1 10 1039     I SH I
+                    14 1 10 1247     I TR E
+                    14 1 10 1254     I SH E
+                    14 1 10 1754    II OC D
+                    14 1 10 2050.1  II EC R
+                    14 1 11  751     I OC D
+                    14 1 11  937   III TR I
+                    14 1 11 1012   III SH I
+                    14 1 11 1015.2   I EC R
+                    14 1 11 1247   III TR E
+                    14 1 11 1322   III SH E
+                    14 1 12  245    IV OC D
+                    14 1 12  458     I TR I
+                    14 1 12  5 8     I SH I
+                    14 1 12  713     I TR E
+                    14 1 12  723     I SH E
+                    14 1 12  744.9  IV EC R
+                    14 1 12 1255    II TR I
+                    14 1 12 1316    II SH I
+                    14 1 12 1537    II TR E
+                    14 1 12 1558    II SH E
+                    14 1 13  217     I OC D
+                    14 1 13  443.9   I EC R
+                    14 1 13 2324     I TR I
+                    14 1 13 2336     I SH I
+                    14 1 14  139     I TR E
+                    14 1 14  152     I SH E
+                    14 1 14  7 1    II OC D
+                    14 1 14 10 8.0  II EC R
+                    14 1 14 2043     I OC D
+                    14 1 14 2312.5   I EC R
+                    14 1 14 2314   III OC D
+                    14 1 15  322.2 III EC R
+                    14 1 15 1750     I TR I
+                    14 1 15 18 5     I SH I
+                    14 1 15 20 5     I TR E
+                    14 1 15 2020     I SH E
+                    14 1 16  2 3    II TR I
+                    14 1 16  235    II SH I
+                    14 1 16  444    II TR E
+                    14 1 16  517    II SH E
+                    14 1 16 15 9     I OC D
+                    14 1 16 1741.2   I EC R
+                    14 1 17 1216     I TR I
+                    14 1 17 1233     I SH I
+                    14 1 17 1431     I TR E
+                    14 1 17 1449     I SH E
+                    14 1 17 20 8    II OC D
+                    14 1 17 2325.8  II EC R
+                    14 1 18  935     I OC D
+                    14 1 18 12 9.9   I EC R
+                    14 1 18 1254   III TR I
+                    14 1 18 1411   III SH I
+                    14 1 18 16 3   III TR E
+                    14 1 18 1722   III SH E
+                    14 1 19  642     I TR I
+                    14 1 19  7 2     I SH I
+                    14 1 19  857     I TR E
+                    14 1 19  918     I SH E
+                    14 1 19 1511    II TR I
+                    14 1 19 1553    II SH I
+                    14 1 19 1752    II TR E
+                    14 1 19 1835    II SH E
+                    14 1 20  4 1     I OC D
+                    14 1 20  638.6   I EC R
+                    14 1 20 1139    IV TR I
+                    14 1 20 15 3    IV TR E
+                    14 1 20 15 6    IV SH I
+                    14 1 20 1837    IV SH E
+                    14 1 21  1 8     I TR I
+                    14 1 21  131     I SH I
+                    14 1 21  323     I TR E
+                    14 1 21  346     I SH E
+                    14 1 21  915    II OC D
+                    14 1 21 1243.8  II EC R
+                    14 1 21 2227     I OC D
+                    14 1 22  1 7.3   I EC R
+                    14 1 22  231   III OC D
+                    14 1 22  722.8 III EC R
+                    14 1 22 1934     I TR I
+                    14 1 22 1959     I SH I
+                    14 1 22 2149     I TR E
+                    14 1 22 2215     I SH E
+                    14 1 23  419    II TR I
+                    14 1 23  511    II SH I
+                    14 1 23  7 0    II TR E
+                    14 1 23  753    II SH E
+                    14 1 23 1653     I OC D
+                    14 1 23 1936.0   I EC R
+                    14 1 24 14 0     I TR I
+                    14 1 24 1428     I SH I
+                    14 1 24 1615     I TR E
+                    14 1 24 1643     I SH E
+                    14 1 24 2223    II OC D
+                    14 1 25  2 1.7  II EC R
+                    14 1 25 1119     I OC D
+                    14 1 25 14 4.7   I EC R
+                    14 1 25 1612   III TR I
+                    14 1 25 1810   III SH I
+                    14 1 25 1921   III TR E
+                    14 1 25 2122   III SH E
+                    14 1 26  826     I TR I
+                    14 1 26  857     I SH I
+                    14 1 26 1041     I TR E
+                    14 1 26 1112     I SH E
+                    14 1 26 1727    II TR I
+                    14 1 26 1829    II SH I
+                    14 1 26 20 8    II TR E
+                    14 1 26 2111    II SH E
+                    14 1 27  546     I OC D
+                    14 1 27  833.5   I EC R
+                    14 1 28  253     I TR I
+                    14 1 28  325     I SH I
+                    14 1 28  5 8     I TR E
+                    14 1 28  541     I SH E
+                    14 1 28 1131    II OC D
+                    14 1 28 1519.9  II EC R
+                    14 1 28 17 1    IV OC D
+                    14 1 28 2027    IV OC R
+                    14 1 28 2218.1  IV EC D
+                    14 1 29  012     I OC D
+                    14 1 29  155.1  IV EC R
+                    14 1 29  3 2.1   I EC R
+                    14 1 29  550   III OC D
+                    14 1 29 1122.9 III EC R
+                    14 1 29 2119     I TR I
+                    14 1 29 2154     I SH I
+                    14 1 29 2334     I TR E
+                    14 1 30  010     I SH E
+                    14 1 30  636    II TR I
+                    14 1 30  747    II SH I
+                    14 1 30  916    II TR E
+                    14 1 30 1029    II SH E
+                    14 1 30 1838     I OC D
+                    14 1 30 2130.9   I EC R
+                    14 1 31 1545     I TR I
+                    14 1 31 1623     I SH I
+                    14 1 31 18 0     I TR E
+                    14 1 31 1838     I SH E
+                    14 2  1  039    II OC D
+                    14 2  1  437.9  II EC R
+                    14 2  1 13 5     I OC D
+                    14 2  1 1559.6   I EC R
+                    14 2  1 1934   III TR I
+                    14 2  1 2211   III SH I
+                    14 2  1 2243   III TR E
+                    14 2  2  123   III SH E
+                    14 2  2 1012     I TR I
+                    14 2  2 1051     I SH I
+                    14 2  2 1227     I TR E
+                    14 2  2 13 7     I SH E
+                    14 2  2 1945    II TR I
+                    14 2  2 21 5    II SH I
+                    14 2  2 2225    II TR E
+                    14 2  2 2347    II SH E
+                    14 2  3  731     I OC D
+                    14 2  3 1028.3   I EC R
+                    14 2  4  438     I TR I
+                    14 2  4  520     I SH I
+                    14 2  4  653     I TR E
+                    14 2  4  736     I SH E
+                    14 2  4 1348    II OC D
+                    14 2  4 1756.2  II EC R
+                    14 2  5  158     I OC D
+                    14 2  5  457.0   I EC R
+                    14 2  5  912   III OC D
+                    14 2  5 1523.0 III EC R
+                    14 2  5 23 5     I TR I
+                    14 2  5 2349     I SH I
+                    14 2  6  120     I TR E
+                    14 2  6  2 4     I SH E
+                    14 2  6  213    IV TR I
+                    14 2  6  536    IV TR E
+                    14 2  6  854    II TR I
+                    14 2  6  9 7    IV SH I
+                    14 2  6 1024    II SH I
+                    14 2  6 1135    II TR E
+                    14 2  6 1246    IV SH E
+                    14 2  6 13 6    II SH E
+                    14 2  6 2024     I OC D
+                    14 2  6 2325.8   I EC R
+                    14 2  7 1731     I TR I
+                    14 2  7 1817     I SH I
+                    14 2  7 1946     I TR E
+                    14 2  7 2033     I SH E
+                    14 2  8  258    II OC D
+                    14 2  8  714.4  II EC R
+                    14 2  8 1451     I OC D
+                    14 2  8 1754.5   I EC R
+                    14 2  8 2259   III TR I
+                    14 2  9  2 7   III TR E
+                    14 2  9  210   III SH I
+                    14 2  9  524   III SH E
+                    14 2  9 1158     I TR I
+                    14 2  9 1246     I SH I
+                    14 2  9 1413     I TR E
+                    14 2  9 15 2     I SH E
+                    14 2  9 22 4    II TR I
+                    14 2  9 2342    II SH I
+                    14 2 10  044    II TR E
+                    14 2 10  224    II SH E
+                    14 2 10  918     I OC D
+                    14 2 10 1223.3   I EC R
+                    14 2 11  625     I TR I
+                    14 2 11  715     I SH I
+                    14 2 11  840     I TR E
+                    14 2 11  930     I SH E
+                    14 2 11 16 8    II OC D
+                    14 2 11 2032.9  II EC R
+                    14 2 12  344     I OC D
+                    14 2 12  652.0   I EC R
+                    14 2 12 1238   III OC D
+                    14 2 12 1549   III OC R
+                    14 2 12 16 7.9 III EC D
+                    14 2 12 1923.5 III EC R
+                    14 2 13  052     I TR I
+                    14 2 13  144     I SH I
+                    14 2 13  3 7     I TR E
+                    14 2 13  359     I SH E
+                    14 2 13 1115    II TR I
+                    14 2 13 13 0    II SH I
+                    14 2 13 1355    II TR E
+                    14 2 13 1542    II SH E
+                    14 2 13 2211     I OC D
+                    14 2 14  120.8   I EC R
+                    14 2 14  756    IV OC D
+                    14 2 14 1123    IV OC R
+                    14 2 14 1620.8  IV EC D
+                    14 2 14 1919     I TR I
+                    14 2 14 20 5.8  IV EC R
+                    14 2 14 2012     I SH I
+                    14 2 14 2134     I TR E
+                    14 2 14 2228     I SH E
+                    14 2 15  518    II OC D
+                    14 2 15  951.1  II EC R
+                    14 2 15 1638     I OC D
+                    14 2 15 1949.5   I EC R
+                    14 2 16  228   III TR I
+                    14 2 16  537   III TR E
+                    14 2 16  610   III SH I
+                    14 2 16  924   III SH E
+                    14 2 16 1346     I TR I
+                    14 2 16 1441     I SH I
+                    14 2 16 16 1     I TR E
+                    14 2 16 1657     I SH E
+                    14 2 17  026    II TR I
+                    14 2 17  218    II SH I
+                    14 2 17  3 6    II TR E
+                    14 2 17  5 0    II SH E
+                    14 2 17 11 5     I OC D
+                    14 2 17 1418.3   I EC R
+                    14 2 18  813     I TR I
+                    14 2 18  910     I SH I
+                    14 2 18 1028     I TR E
+                    14 2 18 1125     I SH E
+                    14 2 18 1829    II OC D
+                    14 2 18 23 9.7  II EC R
+                    14 2 19  532     I OC D
+                    14 2 19  847.1   I EC R
+                    14 2 19 16 9   III OC D
+                    14 2 19 1920   III OC R
+                    14 2 19 20 7.6 III EC D
+                    14 2 19 2324.2 III EC R
+                    14 2 20  240     I TR I
+                    14 2 20  339     I SH I
+                    14 2 20  455     I TR E
+                    14 2 20  554     I SH E
+                    14 2 20 1337    II TR I
+                    14 2 20 1536    II SH I
+                    14 2 20 1617    II TR E
+                    14 2 20 1818    II SH E
+                    14 2 20 2359     I OC D
+                    14 2 21  315.8   I EC R
+                    14 2 21 21 7     I TR I
+                    14 2 21 22 7     I SH I
+                    14 2 21 2322     I TR E
+                    14 2 22  023     I SH E
+                    14 2 22  741    II OC D
+                    14 2 22 1228.0  II EC R
+                    14 2 22 1735    IV TR I
+                    14 2 22 1827     I OC D
+                    14 2 22 2059    IV TR E
+                    14 2 22 2144.6   I EC R
+                    14 2 23  310    IV SH I
+                    14 2 23  6 1   III TR I
+                    14 2 23  655    IV SH E
+                    14 2 23  910   III TR E
+                    14 2 23 1010   III SH I
+                    14 2 23 1324   III SH E
+                    14 2 23 1534     I TR I
+                    14 2 23 1636     I SH I
+                    14 2 23 1749     I TR E
+                    14 2 23 1852     I SH E
+                    14 2 24  249    II TR I
+                    14 2 24  454    II SH I
+                    14 2 24  529    II TR E
+                    14 2 24  736    II SH E
+                    14 2 24 1254     I OC D
+                    14 2 24 1613.4   I EC R
+                    14 2 25 10 2     I TR I
+                    14 2 25 11 5     I SH I
+                    14 2 25 1217     I TR E
+                    14 2 25 1320     I SH E
+                    14 2 25 2054    II OC D
+                    14 2 26  146.9  II EC R
+                    14 2 26  721     I OC D
+                    14 2 26 1042.1   I EC R
+                    14 2 26 1946   III OC D
+                    14 2 26 2257   III OC R
+                    14 2 27  0 8.3 III EC D
+                    14 2 27  325.7 III EC R
+                    14 2 27  429     I TR I
+                    14 2 27  534     I SH I
+                    14 2 27  644     I TR E
+                    14 2 27  749     I SH E
+                    14 2 27 16 2    II TR I
+                    14 2 27 1812    II SH I
+                    14 2 27 1842    II TR E
+                    14 2 27 2054    II SH E
+                    14 2 28  149     I OC D
+                    14 2 28  510.9   I EC R
+                    14 2 28 2257     I TR I
+                    14 3  1  0 3     I SH I
+                    14 3  1  112     I TR E
+                    14 3  1  218     I SH E
+                    14 3  1 10 7    II OC D
+                    14 3  1 15 5.2  II EC R
+                    14 3  1 2016     I OC D
+                    14 3  1 2339.7   I EC R
+                    14 3  2  939   III TR I
+                    14 3  2 1248   III TR E
+                    14 3  2 14 9   III SH I
+                    14 3  2 1724   III SH E
+                    14 3  2 1724     I TR I
+                    14 3  2 1832     I SH I
+                    14 3  2 1939     I TR E
+                    14 3  2 2047     I SH E
+                    14 3  2 2346    IV OC D
+                    14 3  3  315    IV OC R
+                    14 3  3  515    II TR I
+                    14 3  3  730    II SH I
+                    14 3  3  755    II TR E
+                    14 3  3 1012    II SH E
+                    14 3  3 1023.8  IV EC D
+                    14 3  3 1416.1  IV EC R
+                    14 3  3 1444     I OC D
+                    14 3  3 18 8.5   I EC R
+                    14 3  4 1152     I TR I
+                    14 3  4 13 0     I SH I
+                    14 3  4 14 7     I TR E
+                    14 3  4 1516     I SH E
+                    14 3  4 2320    II OC D
+                    14 3  5  424.2  II EC R
+                    14 3  5  912     I OC D
+                    14 3  5 1237.2   I EC R
+                    14 3  5 2326   III OC D
+                    14 3  6  238   III OC R
+                    14 3  6  4 8.2 III EC D
+                    14 3  6  620     I TR I
+                    14 3  6  726.5 III EC R
+                    14 3  6  729     I SH I
+                    14 3  6  835     I TR E
+                    14 3  6  945     I SH E
+                    14 3  6 1829    II TR I
+                    14 3  6 2048    II SH I
+                    14 3  6 21 9    II TR E
+                    14 3  6 2330    II SH E
+                    14 3  7  339     I OC D
+                    14 3  7  7 6.0   I EC R
+                    14 3  8  048     I TR I
+                    14 3  8  158     I SH I
+                    14 3  8  3 2     I TR E
+                    14 3  8  413     I SH E
+                    14 3  8 1234    II OC D
+                    14 3  8 1742.6  II EC R
+                    14 3  8 22 7     I OC D
+                    14 3  9  134.8   I EC R
+                    14 3  9 1322   III TR I
+                    14 3  9 1631   III TR E
+                    14 3  9 18 9   III SH I
+                    14 3  9 1916     I TR I
+                    14 3  9 2027     I SH I
+                    14 3  9 2125   III SH E
+                    14 3  9 2130     I TR E
+                    14 3  9 2242     I SH E
+                    14 3 10  744    II TR I
+                    14 3 10 10 6    II SH I
+                    14 3 10 1023    II TR E
+                    14 3 10 1248    II SH E
+                    14 3 10 1635     I OC D
+                    14 3 10 20 3.6   I EC R
+                    14 3 11  957    IV TR I
+                    14 3 11 1323    IV TR E
+                    14 3 11 1344     I TR I
+                    14 3 11 1456     I SH I
+                    14 3 11 1558     I TR E
+                    14 3 11 1711     I SH E
+                    14 3 11 2112    IV SH I
+                    14 3 12  1 4    IV SH E
+                    14 3 12  150    II OC D
+                    14 3 12  7 1.7  II EC R
+                    14 3 12 11 3     I OC D
+                    14 3 12 1432.3   I EC R
+                    14 3 13  312   III OC D
+                    14 3 13  624   III OC R
+                    14 3 13  8 8.3 III EC D
+                    14 3 13  812     I TR I
+                    14 3 13  924     I SH I
+                    14 3 13 1026     I TR E
+                    14 3 13 1127.3 III EC R
+                    14 3 13 1140     I SH E
+                    14 3 13 2059    II TR I
+                    14 3 13 2324    II SH I
+                    14 3 13 2338    II TR E
+                    14 3 14  2 6    II SH E
+                    14 3 14  531     I OC D
+                    14 3 14  9 1.1   I EC R
+                    14 3 15  240     I TR I
+                    14 3 15  353     I SH I
+                    14 3 15  455     I TR E
+                    14 3 15  6 9     I SH E
+                    14 3 15 15 5    II OC D
+                    14 3 15 2020.2  II EC R
+                    14 3 15 2359     I OC D
+                    14 3 16  329.9   I EC R
+                    14 3 16 1710   III TR I
+                    14 3 16 2019   III TR E
+                    14 3 16 21 8     I TR I
+                    14 3 16 22 9   III SH I
+                    14 3 16 2222     I SH I
+                    14 3 16 2323     I TR E
+                    14 3 17  038     I SH E
+                    14 3 17  125   III SH E
+                    14 3 17 1014    II TR I
+                    14 3 17 1242    II SH I
+                    14 3 17 1254    II TR E
+                    14 3 17 1524    II SH E
+                    14 3 17 1827     I OC D
+                    14 3 17 2158.7   I EC R
+                    14 3 18 1536     I TR I
+                    14 3 18 1651     I SH I
+                    14 3 18 1751     I TR E
+                    14 3 18 19 6     I SH E
+                    14 3 19  421    II OC D
+                    14 3 19  939.4  II EC R
+                    14 3 19 1256     I OC D
+                    14 3 19 1627.5   I EC R
+                    14 3 19 1637    IV OC D
+                    14 3 19 20 9    IV OC R
+                    14 3 20  427.2  IV EC D
+                    14 3 20  7 1   III OC D
+                    14 3 20  826.3  IV EC R
+                    14 3 20 10 5     I TR I
+                    14 3 20 1014   III OC R
+                    14 3 20 1120     I SH I
+                    14 3 20 12 7.8 III EC D
+                    14 3 20 1219     I TR E
+                    14 3 20 1335     I SH E
+                    14 3 20 1527.6 III EC R
+                    14 3 20 2330    II TR I
+                    14 3 21  2 0    II SH I
+                    14 3 21  210    II TR E
+                    14 3 21  442    II SH E
+                    14 3 21  724     I OC D
+                    14 3 21 1056.2   I EC R
+                    14 3 22  433     I TR I
+                    14 3 22  549     I SH I
+                    14 3 22  648     I TR E
+                    14 3 22  8 4     I SH E
+                    14 3 22 1738    II OC D
+                    14 3 22 2257.9  II EC R
+                    14 3 23  152     I OC D
+                    14 3 23  525.0   I EC R
+                    14 3 23 21 3   III TR I
+                    14 3 23 23 2     I TR I
+                    14 3 24  013   III TR E
+                    14 3 24  018     I SH I
+                    14 3 24  116     I TR E
+                    14 3 24  2 9   III SH I
+                    14 3 24  233     I SH E
+                    14 3 24  527   III SH E
+                    14 3 24 1247    II TR I
+                    14 3 24 1518    II SH I
+                    14 3 24 1526    II TR E
+                    14 3 24 18 0    II SH E
+                    14 3 24 2021     I OC D
+                    14 3 24 2353.8   I EC R
+                    14 3 25 1730     I TR I
+                    14 3 25 1846     I SH I
+                    14 3 25 1945     I TR E
+                    14 3 25 21 2     I SH E
+                    14 3 26  655    II OC D
+                    14 3 26 1217.2  II EC R
+                    14 3 26 1449     I OC D
+                    14 3 26 1822.6   I EC R
+                    14 3 27 1055   III OC D
+                    14 3 27 1159     I TR I
+                    14 3 27 1315     I SH I
+                    14 3 27 14 9   III OC R
+                    14 3 27 1414     I TR E
+                    14 3 27 1531     I SH E
+                    14 3 27 16 7.3 III EC D
+                    14 3 27 1927.9 III EC R
+                    14 3 28  2 4    II TR I
+                    14 3 28  316    IV TR I
+                    14 3 28  436    II SH I
+                    14 3 28  443    II TR E
+                    14 3 28  648    IV TR E
+                    14 3 28  718    II SH E
+                    14 3 28  918     I OC D
+                    14 3 28 1251.3   I EC R
+                    14 3 28 1515    IV SH I
+                    14 3 28 1913    IV SH E
+                    14 3 29  627     I TR I
+                    14 3 29  744     I SH I
+                    14 3 29  842     I TR E
+                    14 3 29 10 0     I SH E
+                    14 3 29 2013    II OC D
+                    14 3 30  135.8  II EC R
+                    14 3 30  346     I OC D
+                    14 3 30  720.1   I EC R
+                    14 3 31  056     I TR I
+                    14 3 31  1 0   III TR I
+                    14 3 31  213     I SH I
+                    14 3 31  311     I TR E
+                    14 3 31  410   III TR E
+                    14 3 31  429     I SH E
+                    14 3 31  6 9   III SH I
+                    14 3 31  928   III SH E
+                    14 3 31 1521    II TR I
+                    14 3 31 1753    II SH I
+                    14 3 31 18 1    II TR E
+                    14 3 31 2036    II SH E
+                    14 3 31 2215     I OC D
+                    14 4  1  148.9   I EC R
+                    14 4  1 1925     I TR I
+                    14 4  1 2042     I SH I
+                    14 4  1 2140     I TR E
+                    14 4  1 2257     I SH E
+                    14 4  2  932    II OC D
+                    14 4  2 1455.2  II EC R
+                    14 4  2 1644     I OC D
+                    14 4  2 2017.6   I EC R
+                    14 4  3 1354     I TR I
+                    14 4  3 1454   III OC D
+                    14 4  3 1511     I SH I
+                    14 4  3 16 9     I TR E
+                    14 4  3 1726     I SH E
+                    14 4  3 18 8   III OC R
+                    14 4  3 20 7.1 III EC D
+                    14 4  3 2328.5 III EC R
+                    14 4  4  439    II TR I
+                    14 4  4  711    II SH I
+                    14 4  4  719    II TR E
+                    14 4  4  954    II SH E
+                    14 4  4 1113     I OC D
+                    14 4  4 1446.4   I EC R
+                    14 4  5  823     I TR I
+                    14 4  5  940     I SH I
+                    14 4  5 1024    IV OC D
+                    14 4  5 1038     I TR E
+                    14 4  5 1155     I SH E
+                    14 4  5 14 2    IV OC R
+                    14 4  5 2231.1  IV EC D
+                    14 4  5 2251    II OC D
+                    14 4  6  236.5  IV EC R
+                    14 4  6  413.8  II EC R
+                    14 4  6  542     I OC D
+                    14 4  6  915.2   I EC R
+                    14 4  7  252     I TR I
+                    14 4  7  4 8     I SH I
+                    14 4  7  5 1   III TR I
+                    14 4  7  5 7     I TR E
+                    14 4  7  624     I SH E
+                    14 4  7  812   III TR E
+                    14 4  7 1010   III SH I
+                    14 4  7 1329   III SH E
+                    14 4  7 1758    II TR I
+                    14 4  7 2029    II SH I
+                    14 4  7 2037    II TR E
+                    14 4  7 2311    II SH E
+                    14 4  8  011     I OC D
+                    14 4  8  343.9   I EC R
+                    14 4  8 2121     I TR I
+                    14 4  8 2237     I SH I
+                    14 4  8 2336     I TR E
+                    14 4  9  053     I SH E
+                    14 4  9 1210    II OC D
+                    14 4  9 1733.3  II EC R
+                    14 4  9 1840     I OC D
+                    14 4  9 2212.7   I EC R
+                    14 4 10 1550     I TR I
+                    14 4 10 17 6     I SH I
+                    14 4 10 18 5     I TR E
+                    14 4 10 1857   III OC D
+                    14 4 10 1922     I SH E
+                    14 4 10 2211   III OC R
+                    14 4 11  0 6.9 III EC D
+                    14 4 11  329.1 III EC R
+                    14 4 11  716    II TR I
+                    14 4 11  947    II SH I
+                    14 4 11  956    II TR E
+                    14 4 11 1229    II SH E
+                    14 4 11 13 9     I OC D
+                    14 4 11 1641.4   I EC R
+                    14 4 12 1019     I TR I
+                    14 4 12 1135     I SH I
+                    14 4 12 1234     I TR E
+                    14 4 12 1351     I SH E
+                    14 4 13  130    II OC D
+                    14 4 13  651.9  II EC R
+                    14 4 13  738     I OC D
+                    14 4 13 1110.2   I EC R
+                    14 4 13 2129    IV TR I
+                    14 4 14  1 7    IV TR E
+                    14 4 14  448     I TR I
+                    14 4 14  6 4     I SH I
+                    14 4 14  7 3     I TR E
+                    14 4 14  820     I SH E
+                    14 4 14  9 5   III TR I
+                    14 4 14  918    IV SH I
+                    14 4 14 1217   III TR E
+                    14 4 14 1321    IV SH E
+                    14 4 14 14 9   III SH I
+                    14 4 14 1729   III SH E
+                    14 4 14 2036    II TR I
+                    14 4 14 23 4    II SH I
+                    14 4 14 2316    II TR E
+                    14 4 15  147    II SH E
+                    14 4 15  2 7     I OC D
+                    14 4 15  539.0   I EC R
+                    14 4 15 2318     I TR I
+                    14 4 16  033     I SH I
+                    14 4 16  133     I TR E
+                    14 4 16  249     I SH E
+                    14 4 16 1451    II OC D
+                    14 4 16 2011.4  II EC R
+                    14 4 16 2036     I OC D
+                    14 4 17  0 7.7   I EC R
+                    14 4 17 1747     I TR I
+                    14 4 17 19 2     I SH I
+                    14 4 17 20 2     I TR E
+                    14 4 17 2118     I SH E
+                    14 4 17 23 4   III OC D
+                    14 4 18  219   III OC R
+                    14 4 18  4 7.5 III EC D
+                    14 4 18  730.4 III EC R
+                    14 4 18  955    II TR I
+                    14 4 18 1222    II SH I
+                    14 4 18 1235    II TR E
+                    14 4 18 15 5    II SH E
+                    14 4 18 15 5     I OC D
+                    14 4 18 1836.4   I EC R
+                    14 4 19 1216     I TR I
+                    14 4 19 1331     I SH I
+                    14 4 19 1432     I TR E
+                    14 4 19 1546     I SH E
+                    14 4 20  411    II OC D
+                    14 4 20  930.1  II EC R
+                    14 4 20  935     I OC D
+                    14 4 20 13 5.2   I EC R
+                    14 4 21  646     I TR I
+                    14 4 21  759     I SH I
+                    14 4 21  9 1     I TR E
+                    14 4 21 1015     I SH E
+                    14 4 21 1313   III TR I
+                    14 4 21 1626   III TR E
+                    14 4 21 18 9   III SH I
+                    14 4 21 2129   III SH E
+                    14 4 21 2315    II TR I
+                    14 4 22  140    II SH I
+                    14 4 22  155    II TR E
+                    14 4 22  4 4     I OC D
+                    14 4 22  423    II SH E
+                    14 4 22  5 1    IV OC D
+                    14 4 22  733.9   I EC R
+                    14 4 22  846    IV OC R
+                    14 4 22 1634.6  IV EC D
+                    14 4 22 2045.8  IV EC R
+                    14 4 23  115     I TR I
+                    14 4 23  228     I SH I
+                    14 4 23  330     I TR E
+                    14 4 23  444     I SH E
+                    14 4 23 1733    II OC D
+                    14 4 23 2233     I OC D
+                    14 4 23 2249.6  II EC R
+                    14 4 24  2 2.7   I EC R
+                    14 4 24 1945     I TR I
+                    14 4 24 2057     I SH I
+                    14 4 24 22 0     I TR E
+                    14 4 24 2313     I SH E
+                    14 4 25  313   III OC D
+                    14 4 25  630   III OC R
+                    14 4 25  8 7.3 III EC D
+                    14 4 25 1131.0 III EC R
+                    14 4 25 1235    II TR I
+                    14 4 25 1457    II SH I
+                    14 4 25 1516    II TR E
+                    14 4 25 17 3     I OC D
+                    14 4 25 1740    II SH E
+                    14 4 25 2031.4   I EC R
+                    14 4 26 1414     I TR I
+                    14 4 26 1526     I SH I
+                    14 4 26 1630     I TR E
+                    14 4 26 1742     I SH E
+                    14 4 27  654    II OC D
+                    14 4 27 1132     I OC D
+                    14 4 27 12 8.3  II EC R
+                    14 4 27 15 0.1   I EC R
+                    14 4 28  844     I TR I
+                    14 4 28  955     I SH I
+                    14 4 28 1059     I TR E
+                    14 4 28 1211     I SH E
+                    14 4 28 1724   III TR I
+                    14 4 28 2038   III TR E
+                    14 4 28 22 9   III SH I
+                    14 4 29  130   III SH E
+                    14 4 29  156    II TR I
+                    14 4 29  415    II SH I
+                    14 4 29  437    II TR E
+                    14 4 29  6 2     I OC D
+                    14 4 29  658    II SH E
+                    14 4 29  928.9   I EC R
+                    14 4 30  313     I TR I
+                    14 4 30  424     I SH I
+                    14 4 30  529     I TR E
+                    14 4 30  640     I SH E
+                    14 4 30 1626    IV TR I
+                    14 4 30 2012    IV TR E
+                    14 4 30 2017    II OC D
+                    14 5  1  031     I OC D
+                    14 5  1  127.9  II EC R
+                    14 5  1  321    IV SH I
+                    14 5  1  357.6   I EC R
+                    14 5  1  730    IV SH E
+                    14 5  1 2143     I TR I
+                    14 5  1 2253     I SH I
+                    14 5  1 2359     I TR E
+                    14 5  2  1 9     I SH E
+                    14 5  2  726   III OC D
+                    14 5  2 1044   III OC R
+                    14 5  2 12 7.1 III EC D
+                    14 5  2 1517    II TR I
+                    14 5  2 1531.4 III EC R
+                    14 5  2 1732    II SH I
+                    14 5  2 1758    II TR E
+                    14 5  2 19 1     I OC D
+                    14 5  2 2016    II SH E
+                    14 5  2 2226.3   I EC R
+                    14 5  3 1613     I TR I
+                    14 5  3 1721     I SH I
+                    14 5  3 1829     I TR E
+                    14 5  3 1938     I SH E
+                    14 5  4  939    II OC D
+                    14 5  4 1330     I OC D
+                    14 5  4 1446.6  II EC R
+                    14 5  4 1655.0   I EC R
+                    14 5  5 1043     I TR I
+                    14 5  5 1150     I SH I
+                    14 5  5 1258     I TR E
+                    14 5  5 14 7     I SH E
+                    14 5  5 2138   III TR I
+                    14 5  6  053   III TR E
+                    14 5  6  2 9   III SH I
+                    14 5  6  438    II TR I
+                    14 5  6  531   III SH E
+                    14 5  6  650    II SH I
+                    14 5  6  719    II TR E
+                    14 5  6  8 0     I OC D
+                    14 5  6  934    II SH E
+                    14 5  6 1123.7   I EC R
+                    14 5  7  512     I TR I
+                    14 5  7  619     I SH I
+                    14 5  7  728     I TR E
+                    14 5  7  836     I SH E
+                    14 5  7 23 2    II OC D
+                    14 5  8  230     I OC D
+                    14 5  8  4 6.1  II EC R
+                    14 5  8  552.4   I EC R
+                    14 5  8 2342     I TR I
+                    14 5  9  018    IV OC D
+                    14 5  9  048     I SH I
+                    14 5  9  158     I TR E
+                    14 5  9  3 5     I SH E
+                    14 5  9  411    IV OC R
+                    14 5  9 1038.2  IV EC D
+                    14 5  9 1141   III OC D
+                    14 5  9 1454.9  IV EC R
+                    14 5  9 1459   III OC R
+                    14 5  9 16 6.3 III EC D
+                    14 5  9 1759    II TR I
+                    14 5  9 1931.3 III EC R
+                    14 5  9 20 7    II SH I
+                    14 5  9 2041    II TR E
+                    14 5  9 2059     I OC D
+                    14 5  9 2251    II SH E
+                    14 5 10  021.1   I EC R
+                    14 5 10 1812     I TR I
+                    14 5 10 1917     I SH I
+                    14 5 10 2028     I TR E
+                    14 5 10 2133     I SH E
+                    14 5 11 1225    II OC D
+                    14 5 11 1529     I OC D
+                    14 5 11 1724.8  II EC R
+                    14 5 11 1849.8   I EC R
+                    14 5 12 1242     I TR I
+                    14 5 12 1346     I SH I
+                    14 5 12 1458     I TR E
+                    14 5 12 16 2     I SH E
+                    14 5 13  155   III TR I
+                    14 5 13  512   III TR E
+                    14 5 13  6 9   III SH I
+                    14 5 13  721    II TR I
+                    14 5 13  925    II SH I
+                    14 5 13  932   III SH E
+                    14 5 13  959     I OC D
+                    14 5 13 10 3    II TR E
+                    14 5 13 12 9    II SH E
+                    14 5 13 1318.5   I EC R
+                    14 5 14  712     I TR I
+                    14 5 14  815     I SH I
+                    14 5 14  928     I TR E
+                    14 5 14 1031     I SH E
+                    14 5 15  149    II OC D
+                    14 5 15  429     I OC D
+                    14 5 15  644.3  II EC R
+                    14 5 15  747.2   I EC R
+                    14 5 16  142     I TR I
+                    14 5 16  243     I SH I
+                    14 5 16  358     I TR E
+                    14 5 16  5 0     I SH E
+                    14 5 16 1558   III OC D
+                    14 5 16 1918   III OC R
+                    14 5 16 20 5.5 III EC D
+                    14 5 16 2043    II TR I
+                    14 5 16 2242    II SH I
+                    14 5 16 2259     I OC D
+                    14 5 16 2325    II TR E
+                    14 5 16 2331.1 III EC R
+                    14 5 17  127    II SH E
+                    14 5 17  215.9   I EC R
+                    14 5 17 1159    IV TR I
+                    14 5 17 1554    IV TR E
+                    14 5 17 2012     I TR I
+                    14 5 17 2112     I SH I
+                    14 5 17 2123    IV SH I
+                    14 5 17 2228     I TR E
+                    14 5 17 2329     I SH E
+                    14 5 18  138    IV SH E
+                    14 5 18 1512    II OC D
+                    14 5 18 1729     I OC D
+                    14 5 18 20 3.0  II EC R
+                    14 5 18 2044.6   I EC R
+                    14 5 19 1442     I TR I
+                    14 5 19 1541     I SH I
+                    14 5 19 1658     I TR E
+                    14 5 19 1758     I SH E
+                    14 5 20  614   III TR I
+                    14 5 20  932   III TR E
+                    14 5 20 10 5    II TR I
+                    14 5 20 10 9   III SH I
+                    14 5 20 1158     I OC D
+                    14 5 20 12 0    II SH I
+                    14 5 20 1247    II TR E
+                    14 5 20 1333   III SH E
+                    14 5 20 1444    II SH E
+                    14 5 20 1513.3   I EC R
+                    14 5 21  912     I TR I
+                    14 5 21 1010     I SH I
+                    14 5 21 1128     I TR E
+                    14 5 21 1227     I SH E
+                    14 5 22  437    II OC D
+                    14 5 22  628     I OC D
+                    14 5 22  922.5  II EC R
+                    14 5 22  942.0   I EC R
+                    14 5 23  342     I TR I
+                    14 5 23  439     I SH I
+                    14 5 23  558     I TR E
+                    14 5 23  656     I SH E
+                    14 5 23 2018   III OC D
+                    14 5 23 2327    II TR I
+                    14 5 23 2338   III OC R
+                    14 5 24  0 4.9 III EC D
+                    14 5 24  058     I OC D
+                    14 5 24  117    II SH I
+                    14 5 24  210    II TR E
+                    14 5 24  331.3 III EC R
+                    14 5 24  4 2    II SH E
+                    14 5 24  410.6   I EC R
+                    14 5 24 2212     I TR I
+                    14 5 24 23 8     I SH I
+                    14 5 25  029     I TR E
+                    14 5 25  124     I SH E
+                    14 5 25 18 1    II OC D
+                    14 5 25 1928     I OC D
+                    14 5 25 20 7    IV OC D
+                    14 5 25 2239.3   I EC R
+                    14 5 25 2241.1  II EC R
+                    14 5 26  0 9    IV OC R
+                    14 5 26  441.5  IV EC D
+                    14 5 26  9 3.1  IV EC R
+                    14 5 26 1642     I TR I
+                    14 5 26 1736     I SH I
+                    14 5 26 1859     I TR E
+                    14 5 26 1953     I SH E
+                    14 5 27 1035   III TR I
+                    14 5 27 1250    II TR I
+                    14 5 27 1354   III TR E
+                    14 5 27 1358     I OC D
+                    14 5 27 14 9   III SH I
+                    14 5 27 1435    II SH I
+                    14 5 27 1533    II TR E
+                    14 5 27 17 8.0   I EC R
+                    14 5 27 1719    II SH E
+                    14 5 27 1734   III SH E
+                    14 5 28 1112     I TR I
+                    14 5 28 12 5     I SH I
+                    14 5 28 1329     I TR E
+                    14 5 28 1422     I SH E
+                    14 5 29  725    II OC D
+                    14 5 29  828     I OC D
+                    14 5 29 1136.6   I EC R
+                    14 5 29 12 0.6  II EC R
+                    14 5 30  543     I TR I
+                    14 5 30  634     I SH I
+                    14 5 30  759     I TR E
+                    14 5 30  851     I SH E
+                    14 5 31  039   III OC D
+                    14 5 31  213    II TR I
+                    14 5 31  258     I OC D
+                    14 5 31  352    II SH I
+                    14 5 31  4 1   III OC R
+                    14 5 31  4 4.3 III EC D
+                    14 5 31  456    II TR E
+                    14 5 31  6 5.3   I EC R
+                    14 5 31  637    II SH E
+                    14 5 31  731.4 III EC R
+                    14 6  1  013     I TR I
+                    14 6  1  1 3     I SH I
+                    14 6  1  229     I TR E
+                    14 6  1  320     I SH E
+                    14 6  1 2050    II OC D
+                    14 6  1 2128     I OC D
+                    14 6  2  033.9   I EC R
+                    14 6  2  119.2  II EC R
+                    14 6  2 1843     I TR I
+                    14 6  2 1932     I SH I
+                    14 6  2 21 0     I TR E
+                    14 6  2 2149     I SH E
+                    14 6  3  758    IV TR I
+                    14 6  3 12 2    IV TR E
+                    14 6  3 1457   III TR I
+                    14 6  3 1525    IV SH I
+                    14 6  3 1536    II TR I
+                    14 6  3 1558     I OC D
+                    14 6  3 17 9    II SH I
+                    14 6  3 18 9   III SH I
+                    14 6  3 1817   III TR E
+                    14 6  3 1819    II TR E
+                    14 6  3 19 2.6   I EC R
+                    14 6  3 1945    IV SH E
+                    14 6  3 1954    II SH E
+                    14 6  3 2134   III SH E
+                    14 6  4 1313     I TR I
+                    14 6  4 14 0     I SH I
+                    14 6  4 1530     I TR E
+                    14 6  4 1618     I SH E
+                    14 6  5 1015    II OC D
+                    14 6  5 1028     I OC D
+                    14 6  5 1331.2   I EC R
+                    14 6  5 1438.7  II EC R
+                    14 6  6  744     I TR I
+                    14 6  6  829     I SH I
+                    14 6  6 10 0     I TR E
+                    14 6  6 1046     I SH E
+                    14 6  7  459     I OC D
+                    14 6  7  459    II TR I
+                    14 6  7  5 3   III OC D
+                    14 6  7  626    II SH I
+                    14 6  7  742    II TR E
+                    14 6  7  759.9   I EC R
+                    14 6  7  912    II SH E
+                    14 6  7 1132.2 III EC R
+                    14 6  8  214     I TR I
+                    14 6  8  258     I SH I
+                    14 6  8  431     I TR E
+                    14 6  8  515     I SH E
+                    14 6  8 2329     I OC D
+                    14 6  8 2339    II OC D
+                    14 6  9  228.5   I EC R
+                    14 6  9  357.2  II EC R
+                    14 6  9 2044     I TR I
+                    14 6  9 2127     I SH I
+                    14 6  9 23 1     I TR E
+                    14 6  9 2344     I SH E
+                    14 6 10 1759     I OC D
+                    14 6 10 1822    II TR I
+                    14 6 10 1920   III TR I
+                    14 6 10 1944    II SH I
+                    14 6 10 2057.1   I EC R
+                    14 6 10 21 6    II TR E
+                    14 6 10 22 8   III SH I
+                    14 6 10 2229    II SH E
+                    14 6 10 2242   III TR E
+                    14 6 11  134   III SH E
+                    14 6 11 1514     I TR I
+                    14 6 11 1556     I SH I
+                    14 6 11 1618    IV OC D
+                    14 6 11 1731     I TR E
+                    14 6 11 1813     I SH E
+                    14 6 11 2030    IV OC R
+                    14 6 11 2244.3  IV EC D
+                    14 6 12  310.6  IV EC R
+                    14 6 12 1229     I OC D
+                    14 6 12 13 5    II OC D
+                    14 6 12 1525.8   I EC R
+                    14 6 12 1716.6  II EC R
+                    14 6 13  945     I TR I
+                    14 6 13 1024     I SH I
+                    14 6 13 12 2     I TR E
+                    14 6 13 1242     I SH E
+                    14 6 14  659     I OC D
+                    14 6 14  745    II TR I
+                    14 6 14  9 1    II SH I
+                    14 6 14  928   III OC D
+                    14 6 14  954.4   I EC R
+                    14 6 14 1029    II TR E
+                    14 6 14 1147    II SH E
+                    14 6 14 1532.1 III EC R
+                    14 6 15  415     I TR I
+                    14 6 15  453     I SH I
+                    14 6 15  632     I TR E
+                    14 6 15  711     I SH E
+                    14 6 16  129     I OC D
+                    14 6 16  230    II OC D
+                    14 6 16  423.0   I EC R
+                    14 6 16  635.0  II EC R
+                    14 6 16 2245     I TR I
+                    14 6 16 2322     I SH I
+                    14 6 17  1 3     I TR E
+                    14 6 17  139     I SH E
+                    14 6 17 1959     I OC D
+                    14 6 17 21 9    II TR I
+                    14 6 17 2218    II SH I
+                    14 6 17 2251.6   I EC R
+                    14 6 17 2345   III TR I
+                    14 6 17 2353    II TR E
+                    14 6 18  1 4    II SH E
+                    14 6 18  2 7   III SH I
+                    14 6 18  3 8   III TR E
+                    14 6 18  534   III SH E
+                    14 6 18 1716     I TR I
+                    14 6 18 1751     I SH I
+                    14 6 18 1933     I TR E
+                    14 6 18 20 8     I SH E
+                    14 6 19 1430     I OC D
+                    14 6 19 1556    II OC D
+                    14 6 19 1720.2   I EC R
+                    14 6 19 1954.4  II EC R
+                    14 6 20  416    IV TR I
+                    14 6 20  829    IV TR E
+                    14 6 20  927    IV SH I
+                    14 6 20 1146     I TR I
+                    14 6 20 1220     I SH I
+                    14 6 20 1352    IV SH E
+                    14 6 20 14 3     I TR E
+                    14 6 20 1437     I SH E
+                    14 6 21  9 0     I OC D
+                    14 6 21 1032    II TR I
+                    14 6 21 1136    II SH I
+                    14 6 21 1148.8   I EC R
+                    14 6 21 1317    II TR E
+                    14 6 21 1353   III OC D
+                    14 6 21 1422    II SH E
+                    14 6 21 1931.9 III EC R
+                    14 6 22  616     I TR I
+                    14 6 22  648     I SH I
+                    14 6 22  834     I TR E
+                    14 6 22  9 6     I SH E
+                    14 6 23  330     I OC D
+                    14 6 23  521    II OC D
+                    14 6 23  617.4   I EC R
+                    14 6 23  912.8  II EC R
+                    14 6 24  047     I TR I
+                    14 6 24  117     I SH I
+                    14 6 24  3 4     I TR E
+                    14 6 24  335     I SH E
+                    14 6 24 22 0     I OC D
+                    14 6 24 2356    II TR I
+                    14 6 25  046.0   I EC R
+                    14 6 25  053    II SH I
+                    14 6 25  241    II TR E
+                    14 6 25  339    II SH E
+                    14 6 25  411   III TR I
+                    14 6 25  6 7   III SH I
+                    14 6 25  736   III TR E
+                    14 6 25  935   III SH E
+                    14 6 25 1917     I TR I
+                    14 6 25 1946     I SH I
+                    14 6 25 2135     I TR E
+                    14 6 25 22 3     I SH E
+                    14 6 26 1631     I OC D
+                    14 6 26 1847    II OC D
+                    14 6 26 1914.6   I EC R
+                    14 6 26 2232.0  II EC R
+                    14 6 27 1348     I TR I
+                    14 6 27 1414     I SH I
+                    14 6 27 16 5     I TR E
+                    14 6 27 1632     I SH E
+                    14 6 28 11 1     I OC D
+                    14 6 28 1245    IV OC D
+                    14 6 28 1320    II TR I
+                    14 6 28 1343.2   I EC R
+                    14 6 28 1410    II SH I
+                    14 6 28 16 5    II TR E
+                    14 6 28 1657    II SH E
+                    14 6 28 1819   III OC D
+                    14 6 28 2117.3  IV EC R
+                    14 6 28 2331.2 III EC R
+                    14 6 29  818     I TR I
+                    14 6 29  843     I SH I
+                    14 6 29 1035     I TR E
+                    14 6 29 11 1     I SH E
+                    14 6 30  531     I OC D
+                    14 6 30  812    II OC D
+                    14 6 30  811.8   I EC R
+                    14 6 30 1150.3  II EC R
+                    14 7  1  249     I TR I
+                    14 7  1  312     I SH I
+                    14 7  1  5 6     I TR E
+                    14 7  1  530     I SH E
+                    14 7  2  0 1     I OC D
+                    14 7  2  240.4   I EC R
+                    14 7  2  244    II TR I
+                    14 7  2  327    II SH I
+                    14 7  2  529    II TR E
+                    14 7  2  614    II SH E
+                    14 7  2  838   III TR I
+                    14 7  2 10 7   III SH I
+                    14 7  2 12 4   III TR E
+                    14 7  2 1335   III SH E
+                    14 7  2 2119     I TR I
+                    14 7  2 2141     I SH I
+                    14 7  2 2336     I TR E
+                    14 7  2 2358     I SH E
+                    14 7  3 1831     I OC D
+                    14 7  3 21 9.0   I EC R
+                    14 7  3 2138    II OC D
+                    14 7  4  1 9.4  II EC R
+                    14 7  4 1549     I TR I
+                    14 7  4 16 9     I SH I
+                    14 7  4 18 7     I TR E
+                    14 7  4 1827     I SH E
+                    14 7  5 13 2     I OC D
+                    14 7  5 1537.5   I EC R
+                    14 7  5 16 8    II TR I
+                    14 7  5 1645    II SH I
+                    14 7  5 1854    II TR E
+                    14 7  5 1932    II SH E
+                    14 7  5 2246   III OC D
+                    14 7  6  330.3 III EC R
+                    14 7  6 1020     I TR I
+                    14 7  6 1038     I SH I
+                    14 7  6 1237     I TR E
+                    14 7  6 1256     I SH E
+                    14 7  7  046    IV TR I
+                    14 7  7  328    IV SH I
+                    14 7  7  5 8    IV TR E
+                    14 7  7  732     I OC D
+                    14 7  7  757    IV SH E
+                    14 7  7 10 6.1   I EC R
+                    14 7  7 11 3    II OC D
+                    14 7  7 1427.7  II EC R
+                    14 7  8  450     I TR I
+                    14 7  8  5 7     I SH I
+                    14 7  8  7 8     I TR E
+                    14 7  8  724     I SH E
+                    14 7  9  2 2     I OC D
+                    14 7  9  434.7   I EC R
+                    14 7  9  532    II TR I
+                    14 7  9  6 2    II SH I
+                    14 7  9  818    II TR E
+                    14 7  9  849    II SH E
+                    14 7  9 13 6   III TR I
+                    14 7  9 14 6   III SH I
+                    14 7  9 1633   III TR E
+                    14 7  9 1735   III SH E
+                    14 7  9 2321     I TR I
+                    14 7  9 2335     I SH I
+                    14 7 10  138     I TR E
+                    14 7 10  153     I SH E
+                    14 7 10 2033     I OC D
+                    14 7 10 23 3.2   I EC R
+                    14 7 11  029    II OC D
+                    14 7 11  346.7  II EC R
+                    14 7 11 1751     I TR I
+                    14 7 11 18 4     I SH I
+                    14 7 11 20 9     I TR E
+                    14 7 11 2022     I SH E
+                    14 7 12 15 3     I OC D
+                    14 7 12 1731.8   I EC R
+                    14 7 12 1856    II TR I
+                    14 7 12 1919    II SH I
+                    14 7 12 2142    II TR E
+                    14 7 12 22 6    II SH E
+                    14 7 13  313   III OC D
+                    14 7 13  729.9 III EC R
+                    14 7 13 1221     I TR I
+                    14 7 13 1233     I SH I
+                    14 7 13 1439     I TR E
+                    14 7 13 1450     I SH E
+                    14 7 14  933     I OC D
+                    14 7 14 12 0.3   I EC R
+                    14 7 14 1354    II OC D
+                    14 7 14 17 4.9  II EC R
+                    14 7 15  652     I TR I
+                    14 7 15  7 2     I SH I
+                    14 7 15  910     I TR E
+                    14 7 15  919     I SH E
+                    14 7 15  922    IV OC D
+                    14 7 15 1523.3  IV EC R
+                    14 7 16  4 3     I OC D
+                    14 7 16  628.9   I EC R
+                    14 7 16  820    II TR I
+                    14 7 16  836    II SH I
+                    14 7 16 11 7    II TR E
+                    14 7 16 1124    II SH E
+                    14 7 16 1733   III TR I
+                    14 7 16 18 5   III SH I
+                    14 7 16 21 2   III TR E
+                    14 7 16 2135   III SH E
+                    14 7 17  122     I TR I
+                    14 7 17  130     I SH I
+                    14 7 17  340     I TR E
+                    14 7 17  348     I SH E
+                    14 7 17 2234     I OC D
+                    14 7 18  057.4   I EC R
+                    14 7 18  320    II OC D
+                    14 7 18  623.7  II EC R
+                    14 7 18 1953     I TR I
+                    14 7 18 1959     I SH I
+                    14 7 18 2210     I TR E
+                    14 7 18 2217     I SH E
+                    14 7 19 17 4     I OC D
+                    14 7 19 1926.0   I EC R
+                    14 7 19 2144    II TR I
+                    14 7 19 2153    II SH I
+                    14 7 20  031    II TR E
+                    14 7 20  041    II SH E
+                    14 7 20  741   III OC D
+                    14 7 20 1129.3 III EC R
+                    14 7 20 1423     I TR I
+                    14 7 20 1427     I SH I
+                    14 7 20 1641     I TR E
+                    14 7 20 1645     I SH E
+                    14 7 21 1134     I OC D
+                    14 7 21 1354.5   I EC R
+                    14 7 21 1645    II OC D
+                    14 7 21 1941.8  II EC R
+                    14 7 22  854     I TR I
+                    14 7 22  856     I SH I
+                    14 7 22 1111     I TR E
+                    14 7 22 1114     I SH E
+                    14 7 23  6 4     I OC D
+                    14 7 23  823.0   I EC R
+                    14 7 23 11 8    II TR I
+                    14 7 23 1111    II SH I
+                    14 7 23 1356    II TR E
+                    14 7 23 1359    II SH E
+                    14 7 23 2121    IV TR I
+                    14 7 23 2129    IV SH I
+                    14 7 23 22 1   III TR I
+                    14 7 23 22 4   III SH I
+                    14 7 24  130   III TR E
+                    14 7 24  134   III SH E
+                    14 7 24  152    IV TR E
+                    14 7 24  2 2    IV SH E
+                    14 7 24  324     I TR I
+                    14 7 24  325     I SH I
+                    14 7 24  542     I TR E
+                    14 7 24  542     I SH E
+                    14 7 25  034.5   I EC D
+                    14 7 25  252     I OC R
+                    14 7 25  610.2  II EC D
+                    14 7 25  9 1    II OC R
+                    14 7 25 2153     I SH I
+                    14 7 25 2154     I TR I
+                    14 7 26  011     I SH E
+                    14 7 26  012     I TR E
+                    14 7 26 19 2.9   I EC D
+                    14 7 26 2122     I OC R
+                    14 7 27  028    II SH I
+                    14 7 27  032    II TR I
+                    14 7 27  316    II SH E
+                    14 7 27  320    II TR E
+                    14 7 27 1157.7 III EC D
+                    14 7 27 1540   III OC R
+                    14 7 27 1622     I SH I
+                    14 7 27 1625     I TR I
+                    14 7 27 1840     I SH E
+                    14 7 27 1843     I TR E
+                    14 7 28 1331.4   I EC D
+                    14 7 28 1552     I OC R
+                    14 7 28 1928.1  II EC D
+                    14 7 28 2227    II OC R
+                    14 7 29 1051     I SH I
+                    14 7 29 1055     I TR I
+                    14 7 29 13 8     I SH E
+                    14 7 29 1313     I TR E
+                    14 7 30  759.9   I EC D
+                    14 7 30 1023     I OC R
+                    14 7 30 1345    II SH I
+                    14 7 30 1356    II TR I
+                    14 7 30 1633    II SH E
+                    14 7 30 1645    II TR E
+                    14 7 31  2 2   III SH I
+                    14 7 31  228   III TR I
+                    14 7 31  519     I SH I
+                    14 7 31  526     I TR I
+                    14 7 31  533   III SH E
+                    14 7 31  558   III TR E
+                    14 7 31  737     I SH E
+                    14 7 31  743     I TR E
+                    14 8  1  228.4   I EC D
+                    14 8  1  450.5  IV EC D
+                    14 8  1  453     I OC R
+                    14 8  1  846.7  II EC D
+                    14 8  1 1039    IV OC R
+                    14 8  1 1153    II OC R
+                    14 8  1 2348     I SH I
+                    14 8  1 2356     I TR I
+                    14 8  2  2 6     I SH E
+                    14 8  2  214     I TR E
+                    14 8  2 2056.9   I EC D
+                    14 8  2 2323     I OC R
+                    14 8  3  3 2    II SH I
+                    14 8  3  321    II TR I
+                    14 8  3  551    II SH E
+                    14 8  3  6 9    II TR E
+                    14 8  3 1556.5 III EC D
+                    14 8  3 1816     I SH I
+                    14 8  3 1826     I TR I
+                    14 8  3 20 9   III OC R
+                    14 8  3 2034     I SH E
+                    14 8  3 2044     I TR E
+                    14 8  4 1525.4   I EC D
+                    14 8  4 1753     I OC R
+                    14 8  4 22 4.5  II EC D
+                    14 8  5  118    II OC R
+                    14 8  5 1245     I SH I
+                    14 8  5 1257     I TR I
+                    14 8  5 15 3     I SH E
+                    14 8  5 1514     I TR E
+                    14 8  6  953.9   I EC D
+                    14 8  6 1224     I OC R
+                    14 8  6 1620    II SH I
+                    14 8  6 1645    II TR I
+                    14 8  6 19 8    II SH E
+                    14 8  6 1934    II TR E
+                    14 8  7  6 1   III SH I
+                    14 8  7  655   III TR I
+                    14 8  7  714     I SH I
+                    14 8  7  727     I TR I
+                    14 8  7  931     I SH E
+                    14 8  7  932   III SH E
+                    14 8  7  945     I TR E
+                    14 8  7 1027   III TR E
+                    14 8  8  422.4   I EC D
+                    14 8  8  654     I OC R
+                    14 8  8 1122.9  II EC D
+                    14 8  8 1443    II OC R
+                    14 8  9  142     I SH I
+                    14 8  9  157     I TR I
+                    14 8  9  4 0     I SH E
+                    14 8  9  415     I TR E
+                    14 8  9 1529    IV SH I
+                    14 8  9 1757    IV TR I
+                    14 8  9 20 5    IV SH E
+                    14 8  9 2235    IV TR E
+                    14 8  9 2250.8   I EC D
+                    14 8 10  124     I OC R
+                    14 8 10  537    II SH I
+                    14 8 10  6 9    II TR I
+                    14 8 10  826    II SH E
+                    14 8 10  858    II TR E
+                    14 8 10 1955.1 III EC D
+                    14 8 10 2011     I SH I
+                    14 8 10 2028     I TR I
+                    14 8 10 2228     I SH E
+                    14 8 10 2245     I TR E
+                    14 8 11  037   III OC R
+                    14 8 11 1719.3   I EC D
+                    14 8 11 1954     I OC R
+                    14 8 12  040.7  II EC D
+                    14 8 12  4 8    II OC R
+                    14 8 12 1439     I SH I
+                    14 8 12 1458     I TR I
+                    14 8 12 1657     I SH E
+                    14 8 12 1716     I TR E
+                    14 8 13 1147.8   I EC D
+                    14 8 13 1425     I OC R
+                    14 8 13 1854    II SH I
+                    14 8 13 1933    II TR I
+                    14 8 13 2143    II SH E
+                    14 8 13 2223    II TR E
+                    14 8 14  9 8     I SH I
+                    14 8 14  928     I TR I
+                    14 8 14 10 0   III SH I
+                    14 8 14 1122   III TR I
+                    14 8 14 1126     I SH E
+                    14 8 14 1146     I TR E
+                    14 8 14 1332   III SH E
+                    14 8 14 1454   III TR E
+                    14 8 15  616.3   I EC D
+                    14 8 15  855     I OC R
+                    14 8 15 1359.0  II EC D
+                    14 8 15 1734    II OC R
+                    14 8 16  337     I SH I
+                    14 8 16  358     I TR I
+                    14 8 16  554     I SH E
+                    14 8 16  616     I TR E
+                    14 8 17  044.7   I EC D
+                    14 8 17  325     I OC R
+                    14 8 17  811    II SH I
+                    14 8 17  857    II TR I
+                    14 8 17 11 0    II SH E
+                    14 8 17 1147    II TR E
+                    14 8 17 22 5     I SH I
+                    14 8 17 2229     I TR I
+                    14 8 17 2251.7  IV EC D
+                    14 8 17 2353.3 III EC D
+                    14 8 18  023     I SH E
+                    14 8 18  046     I TR E
+                    14 8 18  5 4   III OC R
+                    14 8 18  723    IV OC R
+                    14 8 18 1913.2   I EC D
+                    14 8 18 2155     I OC R
+                    14 8 19  316.6  II EC D
+                    14 8 19  658    II OC R
+                    14 8 19 1634     I SH I
+                    14 8 19 1659     I TR I
+                    14 8 19 1851     I SH E
+                    14 8 19 1917     I TR E
+                    14 8 20 1341.6   I EC D
+                    14 8 20 1625     I OC R
+                    14 8 20 2129    II SH I
+                    14 8 20 2221    II TR I
+                    14 8 21  018    II SH E
+                    14 8 21  111    II TR E
+                    14 8 21 11 2     I SH I
+                    14 8 21 1129     I TR I
+                    14 8 21 1320     I SH E
+                    14 8 21 1347     I TR E
+                    14 8 21 1359   III SH I
+                    14 8 21 1549   III TR I
+                    14 8 21 1731   III SH E
+                    14 8 21 1922   III TR E
+                    14 8 22  810.1   I EC D
+                    14 8 22 1056     I OC R
+                    14 8 22 1634.8  II EC D
+                    14 8 22 2023    II OC R
+                    14 8 23  531     I SH I
+                    14 8 23  559     I TR I
+                    14 8 23  748     I SH E
+                    14 8 23  817     I TR E
+                    14 8 24  238.5   I EC D
+                    14 8 24  526     I OC R
+                    14 8 24 1046    II SH I
+                    14 8 24 1145    II TR I
+                    14 8 24 1335    II SH E
+                    14 8 24 1435    II TR E
+                    14 8 24 2359     I SH I
+                    14 8 25  029     I TR I
+                    14 8 25  217     I SH E
+                    14 8 25  247     I TR E
+                    14 8 25  351.3 III EC D
+                    14 8 25  931   III OC R
+                    14 8 25 21 7.0   I EC D
+                    14 8 25 2356     I OC R
+                    14 8 26  552.4  II EC D
+                    14 8 26  929    IV SH I
+                    14 8 26  947    II OC R
+                    14 8 26 14 7    IV SH E
+                    14 8 26 1427    IV TR I
+                    14 8 26 1828     I SH I
+                    14 8 26 19 0     I TR I
+                    14 8 26 19 9    IV TR E
+                    14 8 26 2045     I SH E
+                    14 8 26 2117     I TR E
+                    14 8 27 1535.4   I EC D
+                    14 8 27 1826     I OC R
+                    14 8 28  0 3    II SH I
+                    14 8 28  1 9    II TR I
+                    14 8 28  253    II SH E
+                    14 8 28  359    II TR E
+                    14 8 28 1256     I SH I
+                    14 8 28 1330     I TR I
+                    14 8 28 1514     I SH E
+                    14 8 28 1547     I TR E
+                    14 8 28 1758   III SH I
+                    14 8 28 2014   III TR I
+                    14 8 28 2130   III SH E
+                    14 8 28 2348   III TR E
+                    14 8 29 10 3.8   I EC D
+                    14 8 29 1256     I OC R
+                    14 8 29 1910.4  II EC D
+                    14 8 29 2312    II OC R
+                    14 8 30  725     I SH I
+                    14 8 30  8 0     I TR I
+                    14 8 30  942     I SH E
+                    14 8 30 1017     I TR E
+                    14 8 31  432.3   I EC D
+                    14 8 31  726     I OC R
+                    14 8 31 1321    II SH I
+                    14 8 31 1433    II TR I
+                    14 8 31 1610    II SH E
+                    14 8 31 1723    II TR E
+                    14 9  1  153     I SH I
+                    14 9  1  230     I TR I
+                    14 9  1  411     I SH E
+                    14 9  1  447     I TR E
+                    14 9  1  749.8 III EC D
+                    14 9  1 1357   III OC R
+                    14 9  1 23 0.7   I EC D
+                    14 9  2  156     I OC R
+                    14 9  2  827.8  II EC D
+                    14 9  2 1236    II OC R
+                    14 9  2 2022     I SH I
+                    14 9  2 21 0     I TR I
+                    14 9  2 2239     I SH E
+                    14 9  2 2317     I TR E
+                    14 9  3 1652.4  IV EC D
+                    14 9  3 1729.1   I EC D
+                    14 9  3 2026     I OC R
+                    14 9  3 2136.0  IV EC R
+                    14 9  3 23 8    IV OC D
+                    14 9  4  238    II SH I
+                    14 9  4  356    IV OC R
+                    14 9  4  357    II TR I
+                    14 9  4  528    II SH E
+                    14 9  4  647    II TR E
+                    14 9  4 1450     I SH I
+                    14 9  4 1530     I TR I
+                    14 9  4 17 8     I SH E
+                    14 9  4 1747     I TR E
+                    14 9  4 2157   III SH I
+                    14 9  5  038   III TR I
+                    14 9  5  129   III SH E
+                    14 9  5  413   III TR E
+                    14 9  5 1157.6   I EC D
+                    14 9  5 1456     I OC R
+                    14 9  5 2145.7  II EC D
+                    14 9  6  2 0    II OC R
+                    14 9  6  919     I SH I
+                    14 9  6 10 0     I TR I
+                    14 9  6 1136     I SH E
+                    14 9  6 1217     I TR E
+                    14 9  7  626.0   I EC D
+                    14 9  7  926     I OC R
+                    14 9  7 1555    II SH I
+                    14 9  7 1720    II TR I
+                    14 9  7 1845    II SH E
+                    14 9  7 2011    II TR E
+                    14 9  8  347     I SH I
+                    14 9  8  430     I TR I
+                    14 9  8  6 4     I SH E
+                    14 9  8  647     I TR E
+                    14 9  8 1148.2 III EC D
+                    14 9  8 1821   III OC R
+                    14 9  9  054.4   I EC D
+                    14 9  9  356     I OC R
+                    14 9  9 11 3.0  II EC D
+                    14 9  9 1523    II OC R
+                    14 9  9 2216     I SH I
+                    14 9  9 23 0     I TR I
+                    14 9 10  033     I SH E
+                    14 9 10  117     I TR E
+                    14 9 10 1922.8   I EC D
+                    14 9 10 2226     I OC R
+                    14 9 11  513    II SH I
+                    14 9 11  644    II TR I
+                    14 9 11  8 3    II SH E
+                    14 9 11  935    II TR E
+                    14 9 11 1644     I SH I
+                    14 9 11 1730     I TR I
+                    14 9 11 19 1     I SH E
+                    14 9 11 1947     I TR E
+                    14 9 12  155   III SH I
+                    14 9 12  328    IV SH I
+                    14 9 12  5 0   III TR I
+                    14 9 12  527   III SH E
+                    14 9 12  8 9    IV SH E
+                    14 9 12  835   III TR E
+                    14 9 12 1044    IV TR I
+                    14 9 12 1351.2   I EC D
+                    14 9 12 1530    IV TR E
+                    14 9 12 1656     I OC R
+                    14 9 13  020.7  II EC D
+                    14 9 13  447    II OC R
+                    14 9 13 1113     I SH I
+                    14 9 13 12 0     I TR I
+                    14 9 13 1330     I SH E
+                    14 9 13 1417     I TR E
+                    14 9 14  819.6   I EC D
+                    14 9 14 1126     I OC R
+                    14 9 14 1830    II SH I
+                    14 9 14 20 7    II TR I
+                    14 9 14 2120    II SH E
+                    14 9 14 2258    II TR E
+                    14 9 15  541     I SH I
+                    14 9 15  629     I TR I
+                    14 9 15  758     I SH E
+                    14 9 15  847     I TR E
+                    14 9 15 1547.3 III EC D
+                    14 9 15 2245   III OC R
+                    14 9 16  248.1   I EC D
+                    14 9 16  556     I OC R
+                    14 9 16 1338.0  II EC D
+                    14 9 16 1810    II OC R
+                    14 9 17  010     I SH I
+                    14 9 17  059     I TR I
+                    14 9 17  227     I SH E
+                    14 9 17  317     I TR E
+                    14 9 17 2116.4   I EC D
+                    14 9 18  026     I OC R
+                    14 9 18  748    II SH I
+                    14 9 18  930    II TR I
+                    14 9 18 1038    II SH E
+                    14 9 18 1221    II TR E
+                    14 9 18 1838     I SH I
+                    14 9 18 1929     I TR I
+                    14 9 18 2055     I SH E
+                    14 9 18 2146     I TR E
+                    14 9 19  552   III SH I
+                    14 9 19  921   III TR I
+                    14 9 19  925   III SH E
+                    14 9 19 1257   III TR E
+                    14 9 19 1544.9   I EC D
+                    14 9 19 1855     I OC R
+                    14 9 20  255.6  II EC D
+                    14 9 20  733    II OC R
+                    14 9 20 1052.5  IV EC D
+                    14 9 20 13 6     I SH I
+                    14 9 20 1359     I TR I
+                    14 9 20 1523     I SH E
+                    14 9 20 1538.5  IV EC R
+                    14 9 20 1616     I TR E
+                    14 9 20 1920    IV OC D
+                    14 9 21  012    IV OC R
+                    14 9 21 1013.3   I EC D
+                    14 9 21 1325     I OC R
+                    14 9 21 21 5    II SH I
+                    14 9 21 2253    II TR I
+                    14 9 21 2355    II SH E
+                    14 9 22  144    II TR E
+                    14 9 22  735     I SH I
+                    14 9 22  829     I TR I
+                    14 9 22  952     I SH E
+                    14 9 22 1046     I TR E
+                    14 9 22 1945.6 III EC D
+                    14 9 22 2321.0 III EC R
+                    14 9 22 2328   III OC D
+                    14 9 23  3 6   III OC R
+                    14 9 23  441.7   I EC D
+                    14 9 23  755     I OC R
+                    14 9 23 1612.8  II EC D
+                    14 9 23 2056    II OC R
+                    14 9 24  2 3     I SH I
+                    14 9 24  258     I TR I
+                    14 9 24  420     I SH E
+                    14 9 24  515     I TR E
+                    14 9 24 2310.0   I EC D
+                    14 9 25  225     I OC R
+                    14 9 25 1023    II SH I
+                    14 9 25 1216    II TR I
+                    14 9 25 1313    II SH E
+                    14 9 25 15 7    II TR E
+                    14 9 25 2032     I SH I
+                    14 9 25 2128     I TR I
+                    14 9 25 2249     I SH E
+                    14 9 25 2345     I TR E
+                    14 9 26  951   III SH I
+                    14 9 26 1324   III SH E
+                    14 9 26 1341   III TR I
+                    14 9 26 1716   III TR E
+                    14 9 26 1738.5   I EC D
+                    14 9 26 2054     I OC R
+                    14 9 27  530.1  II EC D
+                    14 9 27 1018    II OC R
+                    14 9 27 15 0     I SH I
+                    14 9 27 1558     I TR I
+                    14 9 27 1717     I SH E
+                    14 9 27 1815     I TR E
+                    14 9 28 12 6.9   I EC D
+                    14 9 28 1524     I OC R
+                    14 9 28 2128    IV SH I
+                    14 9 28 2340    II SH I
+                    14 9 29  138    II TR I
+                    14 9 29  210    IV SH E
+                    14 9 29  230    II SH E
+                    14 9 29  430    II TR E
+                    14 9 29  641    IV TR I
+                    14 9 29  929     I SH I
+                    14 9 29 1027     I TR I
+                    14 9 29 1129    IV TR E
+                    14 9 29 1145     I SH E
+                    14 9 29 1244     I TR E
+                    14 9 29 2343.8 III EC D
+                    14 9 30  319.6 III EC R
+                    14 9 30  346   III OC D
+                    14 9 30  635.3   I EC D
+                    14 9 30  725   III OC R
+                    14 9 30  954     I OC R
+                    14 9 30 1847.3  II EC D
+                    14 9 30 2340    II OC R
+                    1410  1  357     I SH I
+                    1410  1  457     I TR I
+                    1410  1  614     I SH E
+                    1410  1  714     I TR E
+                    1410  2  1 3.6   I EC D
+                    1410  2  423     I OC R
+                    1410  2 1258    II SH I
+                    1410  2 15 0    II TR I
+                    1410  2 1548    II SH E
+                    1410  2 1752    II TR E
+                    1410  2 2225     I SH I
+                    1410  2 2326     I TR I
+                    1410  3  042     I SH E
+                    1410  3  143     I TR E
+                    1410  3 1349   III SH I
+                    1410  3 1722   III SH E
+                    1410  3 1758   III TR I
+                    1410  3 1932.1   I EC D
+                    1410  3 2134   III TR E
+                    1410  3 2253     I OC R
+                    1410  4  8 4.5  II EC D
+                    1410  4 13 1    II OC R
+                    1410  4 1654     I SH I
+                    1410  4 1756     I TR I
+                    1410  4 1910     I SH E
+                    1410  4 2012     I TR E
+                    1410  5 14 0.4   I EC D
+                    1410  5 1722     I OC R
+                    1410  6  215    II SH I
+                    1410  6  422    II TR I
+                    1410  6  5 6    II SH E
+                    1410  6  714    II TR E
+                    1410  6 1122     I SH I
+                    1410  6 1225     I TR I
+                    1410  6 1339     I SH E
+                    1410  6 1442     I TR E
+                    1410  7  341.5 III EC D
+                    1410  7  452.6  IV EC D
+                    1410  7  717.6 III EC R
+                    1410  7  8 2   III OC D
+                    1410  7  828.8   I EC D
+                    1410  7  940.6  IV EC R
+                    1410  7 1141   III OC R
+                    1410  7 1152     I OC R
+                    1410  7 15 8    IV OC D
+                    1410  7 20 2    IV OC R
+                    1410  7 2121.6  II EC D
+                    1410  8  223    II OC R
+                    1410  8  551     I SH I
+                    1410  8  654     I TR I
+                    1410  8  8 7     I SH E
+                    1410  8  911     I TR E
+                    1410  9  257.2   I EC D
+                    1410  9  621     I OC R
+                    1410  9 1533    II SH I
+                    1410  9 1744    II TR I
+                    1410  9 1824    II SH E
+                    1410  9 2037    II TR E
+                    1410 10  019     I SH I
+                    1410 10  124     I TR I
+                    1410 10  235     I SH E
+                    1410 10  340     I TR E
+                    1410 10 1748   III SH I
+                    1410 10 2121   III SH E
+                    1410 10 2125.6   I EC D
+                    1410 10 2213   III TR I
+                    1410 11  051     I OC R
+                    1410 11  150   III TR E
+                    1410 11 1038.6  II EC D
+                    1410 11 1543    II OC R
+                    1410 11 1847     I SH I
+                    1410 11 1953     I TR I
+                    1410 11 21 4     I SH E
+                    1410 11 2210     I TR E
+                    1410 12 1554.0   I EC D
+                    1410 12 1920     I OC R
+                    1410 13  450    II SH I
+                    1410 13  7 5    II TR I
+                    1410 13  741    II SH E
+                    1410 13  958    II TR E
+                    1410 13 1316     I SH I
+                    1410 13 1422     I TR I
+                    1410 13 1532     I SH E
+                    1410 13 1639     I TR E
+                    1410 14  739.2 III EC D
+                    1410 14 1022.4   I EC D
+                    1410 14 1115.7 III EC R
+                    1410 14 1216   III OC D
+                    1410 14 1349     I OC R
+                    1410 14 1555   III OC R
+                    1410 14 2355.6  II EC D
+                    1410 15  5 4    II OC R
+                    1410 15  744     I SH I
+                    1410 15  851     I TR I
+                    1410 15 10 0     I SH E
+                    1410 15 11 8     I TR E
+                    1410 15 1527    IV SH I
+                    1410 15 2010    IV SH E
+                    1410 16  210    IV TR I
+                    1410 16  450.7   I EC D
+                    1410 16  658    IV TR E
+                    1410 16  818     I OC R
+                    1410 16 18 8    II SH I
+                    1410 16 2027    II TR I
+                    1410 16 2059    II SH E
+                    1410 16 2319    II TR E
+                    1410 17  212     I SH I
+                    1410 17  320     I TR I
+                    1410 17  429     I SH E
+                    1410 17  537     I TR E
+                    1410 17 2146   III SH I
+                    1410 17 2319.1   I EC D
+                    1410 18  120   III SH E
+                    1410 18  225   III TR I
+                    1410 18  248     I OC R
+                    1410 18  6 2   III TR E
+                    1410 18 1312.6  II EC D
+                    1410 18 1824    II OC R
+                    1410 18 2041     I SH I
+                    1410 18 2150     I TR I
+                    1410 18 2257     I SH E
+                    1410 19  0 6     I TR E
+                    1410 19 1747.5   I EC D
+                    1410 19 2117     I OC R
+                    1410 20  726    II SH I
+                    1410 20  947    II TR I
+                    1410 20 1016    II SH E
+                    1410 20 1240    II TR E
+                    1410 20 15 9     I SH I
+                    1410 20 1619     I TR I
+                    1410 20 1725     I SH E
+                    1410 20 1835     I TR E
+                    1410 21 1137.4 III EC D
+                    1410 21 1215.9   I EC D
+                    1410 21 1514.3 III EC R
+                    1410 21 1546     I OC R
+                    1410 21 1627   III OC D
+                    1410 21 20 7   III OC R
+                    1410 22  229.5  II EC D
+                    1410 22  744    II OC R
+                    1410 22  937     I SH I
+                    1410 22 1048     I TR I
+                    1410 22 1154     I SH E
+                    1410 22 13 4     I TR E
+                    1410 23  644.2   I EC D
+                    1410 23 1015     I OC R
+                    1410 23 2044    II SH I
+                    1410 23 2252.0  IV EC D
+                    1410 23 23 8    II TR I
+                    1410 23 2334    II SH E
+                    1410 24  2 1    II TR E
+                    1410 24  341.8  IV EC R
+                    1410 24  4 6     I SH I
+                    1410 24  517     I TR I
+                    1410 24  622     I SH E
+                    1410 24  733     I TR E
+                    1410 24 1023    IV OC D
+                    1410 24 1518    IV OC R
+                    1410 25  112.7   I EC D
+                    1410 25  144   III SH I
+                    1410 25  444     I OC R
+                    1410 25  518   III SH E
+                    1410 25  634   III TR I
+                    1410 25 1011   III TR E
+                    1410 25 1546.4  II EC D
+                    1410 25 21 3    II OC R
+                    1410 25 2234     I SH I
+                    1410 25 2345     I TR I
+                    1410 26  050     I SH E
+                    1410 26  2 2     I TR E
+                    1410 26 1941.0   I EC D
+                    1410 26 2313     I OC R
+                    1410 27 10 1    II SH I
+                    1410 27 1228    II TR I
+                    1410 27 1252    II SH E
+                    1410 27 1521    II TR E
+                    1410 27 17 2     I SH I
+                    1410 27 1814     I TR I
+                    1410 27 1919     I SH E
+                    1410 27 2031     I TR E
+                    1410 28 14 9.4   I EC D
+                    1410 28 1535.4 III EC D
+                    1410 28 1742     I OC R
+                    1410 28 1912.7 III EC R
+                    1410 28 2035   III OC D
+                    1410 29  015   III OC R
+                    1410 29  5 3.2  II EC D
+                    1410 29 1022    II OC R
+                    1410 29 1131     I SH I
+                    1410 29 1243     I TR I
+                    1410 29 1347     I SH E
+                    1410 29 1459     I TR E
+                    1410 30  837.8   I EC D
+                    1410 30 1211     I OC R
+                    1410 30 2319    II SH I
+                    1410 31  148    II TR I
+                    1410 31  210    II SH E
+                    1410 31  441    II TR E
+                    1410 31  559     I SH I
+                    1410 31  712     I TR I
+                    1410 31  815     I SH E
+                    1410 31  928     I TR E
+                    1411  1  3 6.2   I EC D
+                    1411  1  541   III SH I
+                    1411  1  640     I OC R
+                    1411  1  915   III SH E
+                    1411  1  925    IV SH I
+                    1411  1 1039   III TR I
+                    1411  1 14 9    IV SH E
+                    1411  1 1416   III TR E
+                    1411  1 1819.9  II EC D
+                    1411  1 21 3    IV TR I
+                    1411  1 2340    II OC R
+                    1411  2  027     I SH I
+                    1411  2  140     I TR I
+                    1411  2  150    IV TR E
+                    1411  2  243     I SH E
+                    1411  2  357     I TR E
+                    1411  2 2134.5   I EC D
+                    1411  3  1 8     I OC R
+                    1411  3 1236    II SH I
+                    1411  3 15 7    II TR I
+                    1411  3 1527    II SH E
+                    1411  3 18 0    II TR E
+                    1411  3 1855     I SH I
+                    1411  3 20 9     I TR I
+                    1411  3 2112     I SH E
+                    1411  3 2225     I TR E
+                    1411  4 16 3.0   I EC D
+                    1411  4 1934.3 III EC D
+                    1411  4 1937     I OC R
+                    1411  4 2311.8 III EC R
+                    1411  5  040   III OC D
+                    1411  5  420   III OC R
+                    1411  5  736.7  II EC D
+                    1411  5 1258    II OC R
+                    1411  5 1324     I SH I
+                    1411  5 1438     I TR I
+                    1411  5 1540     I SH E
+                    1411  5 1654     I TR E
+                    1411  6 1031.3   I EC D
+                    1411  6 14 6     I OC R
+                    1411  7  154    II SH I
+                    1411  7  426    II TR I
+                    1411  7  446    II SH E
+                    1411  7  719    II TR E
+                    1411  7  752     I SH I
+                    1411  7  9 6     I TR I
+                    1411  7 10 8     I SH E
+                    1411  7 1122     I TR E
+                    1411  8  459.7   I EC D
+                    1411  8  834     I OC R
+                    1411  8  938   III SH I
+                    1411  8 1313   III SH E
+                    1411  8 1441   III TR I
+                    1411  8 1817   III TR E
+                    1411  8 2053.4  II EC D
+                    1411  9  215    II OC R
+                    1411  9  220     I SH I
+                    1411  9  334     I TR I
+                    1411  9  436     I SH E
+                    1411  9  551     I TR E
+                    1411  9 1651.3  IV EC D
+                    1411  9 2142.5  IV EC R
+                    1411  9 2328.1   I EC D
+                    1411 10  3 3     I OC R
+                    1411 10  457    IV OC D
+                    1411 10  950    IV OC R
+                    1411 10 1512    II SH I
+                    1411 10 1744    II TR I
+                    1411 10 18 3    II SH E
+                    1411 10 2037    II TR E
+                    1411 10 2049     I SH I
+                    1411 10 22 3     I TR I
+                    1411 10 23 5     I SH E
+                    1411 11  019     I TR E
+                    1411 11 1756.5   I EC D
+                    1411 11 2131     I OC R
+                    1411 11 2332.3 III EC D
+                    1411 12  310.2 III EC R
+                    1411 12  441   III OC D
+                    1411 12  821   III OC R
+                    1411 12 1010.1  II EC D
+                    1411 12 1517     I SH I
+                    1411 12 1532    II OC R
+                    1411 12 1631     I TR I
+                    1411 12 1733     I SH E
+                    1411 12 1847     I TR E
+                    1411 13 1224.8   I EC D
+                    1411 13 16 0     I OC R
+                    1411 14  430    II SH I
+                    1411 14  7 2    II TR I
+                    1411 14  721    II SH E
+                    1411 14  945     I SH I
+                    1411 14  955    II TR E
+                    1411 14 1059     I TR I
+                    1411 14 12 1     I SH E
+                    1411 14 1316     I TR E
+                    1411 15  653.3   I EC D
+                    1411 15 1028     I OC R
+                    1411 15 1336   III SH I
+                    1411 15 1711   III SH E
+                    1411 15 1839   III TR I
+                    1411 15 2216   III TR E
+                    1411 15 2326.7  II EC D
+                    1411 16  413     I SH I
+                    1411 16  449    II OC R
+                    1411 16  528     I TR I
+                    1411 16  630     I SH E
+                    1411 16  744     I TR E
+                    1411 17  121.6   I EC D
+                    1411 17  456     I OC R
+                    1411 17 1747    II SH I
+                    1411 17 2019    II TR I
+                    1411 17 2039    II SH E
+                    1411 17 2242     I SH I
+                    1411 17 2312    II TR E
+                    1411 17 2356     I TR I
+                    1411 18  058     I SH E
+                    1411 18  212     I TR E
+                    1411 18  323    IV SH I
+                    1411 18  8 8    IV SH E
+                    1411 18 1510    IV TR I
+                    1411 18 1950.0   I EC D
+                    1411 18 1955    IV TR E
+                    1411 18 2325     I OC R
+                    1411 19  330.3 III EC D
+                    1411 19  7 8.4 III EC R
+                    1411 19  837   III OC D
+                    1411 19 1217   III OC R
+                    1411 19 1243.3  II EC D
+                    1411 19 1710     I SH I
+                    1411 19 18 4    II OC R
+                    1411 19 1824     I TR I
+                    1411 19 1926     I SH E
+                    1411 19 2040     I TR E
+                    1411 20 1418.4   I EC D
+                    1411 20 1753     I OC R
+                    1411 21  7 5    II SH I
+                    1411 21  937    II TR I
+                    1411 21  957    II SH E
+                    1411 21 1138     I SH I
+                    1411 21 1230    II TR E
+                    1411 21 1252     I TR I
+                    1411 21 1354     I SH E
+                    1411 21 15 8     I TR E
+                    1411 22  846.8   I EC D
+                    1411 22 1221     I OC R
+                    1411 22 1734   III SH I
+                    1411 22 21 9   III SH E
+                    1411 22 2234   III TR I
+                    1411 23  159.9  II EC D
+                    1411 23  210   III TR E
+                    1411 23  6 6     I SH I
+                    1411 23  720     I TR I
+                    1411 23  720    II OC R
+                    1411 23  823     I SH E
+                    1411 23  936     I TR E
+                    1411 24  315.2   I EC D
+                    1411 24  649     I OC R
+                    1411 24 2023    II SH I
+                    1411 24 2253    II TR I
+                    1411 24 2315    II SH E
+                    1411 25  035     I SH I
+                    1411 25  146    II TR E
+                    1411 25  147     I TR I
+                    1411 25  251     I SH E
+                    1411 25  4 4     I TR E
+                    1411 25 2143.6   I EC D
+                    1411 26  117     I OC R
+                    1411 26  727.9 III EC D
+                    1411 26 1050.8  IV EC D
+                    1411 26 11 6.3 III EC R
+                    1411 26 1229   III OC D
+                    1411 26 1516.5  II EC D
+                    1411 26 1543.0  IV EC R
+                    1411 26 16 9   III OC R
+                    1411 26 19 3     I SH I
+                    1411 26 2015     I TR I
+                    1411 26 2034    II OC R
+                    1411 26 2119     I SH E
+                    1411 26 2231     I TR E
+                    1411 26 2239    IV OC D
+                    1411 27  330    IV OC R
+                    1411 27 1611.9   I EC D
+                    1411 27 1945     I OC R
+                    1411 28  941    II SH I
+                    1411 28 12 9    II TR I
+                    1411 28 1233    II SH E
+                    1411 28 1331     I SH I
+                    1411 28 1443     I TR I
+                    1411 28 15 2    II TR E
+                    1411 28 1547     I SH E
+                    1411 28 1659     I TR E
+                    1411 29 1040.4   I EC D
+                    1411 29 1413     I OC R
+                    1411 29 2132   III SH I
+                    1411 30  1 7   III SH E
+                    1411 30  224   III TR I
+                    1411 30  433.0  II EC D
+                    1411 30  6 0   III TR E
+                    1411 30  759     I SH I
+                    1411 30  911     I TR I
+                    1411 30  949    II OC R
+                    1411 30 1016     I SH E
+                    1411 30 1127     I TR E
+                    1412  1  5 8.8   I EC D
+                    1412  1  840     I OC R
+                    1412  1 2258    II SH I
+                    1412  2  124    II TR I
+                    1412  2  151    II SH E
+                    1412  2  228     I SH I
+                    1412  2  338     I TR I
+                    1412  2  417    II TR E
+                    1412  2  444     I SH E
+                    1412  2  554     I TR E
+                    1412  2 2337.2   I EC D
+                    1412  3  3 8     I OC R
+                    1412  3 1125.7 III EC D
+                    1412  3 15 4.2 III EC R
+                    1412  3 1616   III OC D
+                    1412  3 1749.5  II EC D
+                    1412  3 1956   III OC R
+                    1412  3 2056     I SH I
+                    1412  3 22 6     I TR I
+                    1412  3 23 2    II OC R
+                    1412  3 2312     I SH E
+                    1412  4  022     I TR E
+                    1412  4 18 5.6   I EC D
+                    1412  4 2121    IV SH I
+                    1412  4 2136     I OC R
+                    1412  5  2 7    IV SH E
+                    1412  5  822    IV TR I
+                    1412  5 1216    II SH I
+                    1412  5 13 6    IV TR E
+                    1412  5 1439    II TR I
+                    1412  5 15 9    II SH E
+                    1412  5 1524     I SH I
+                    1412  5 1633     I TR I
+                    1412  5 1732    II TR E
+                    1412  5 1740     I SH E
+                    1412  5 1849     I TR E
+                    1412  6 1234.0   I EC D
+                    1412  6 16 3     I OC R
+                    1412  7  130   III SH I
+                    1412  7  5 5   III SH E
+                    1412  7  6 9   III TR I
+                    1412  7  7 6.1  II EC D
+                    1412  7  945   III TR E
+                    1412  7  952     I SH I
+                    1412  7 11 0     I TR I
+                    1412  7 12 9     I SH E
+                    1412  7 1215    II OC R
+                    1412  7 1317     I TR E
+                    1412  8  7 2.4   I EC D
+                    1412  8 1031     I OC R
+                    1412  9  134    II SH I
+                    1412  9  352    II TR I
+                    1412  9  421     I SH I
+                    1412  9  426    II SH E
+                    1412  9  528     I TR I
+                    1412  9  637     I SH E
+                    1412  9  646    II TR E
+                    1412  9  744     I TR E
+                    1412 10  130.9   I EC D
+                    1412 10  458     I OC R
+                    1412 10 1523.9 III EC D
+                    1412 10 19 2.8 III EC R
+                    1412 10 1959   III OC D
+                    1412 10 2022.6  II EC D
+                    1412 10 2249     I SH I
+                    1412 10 2339   III OC R
+                    1412 10 2355     I TR I
+                    1412 11  1 5     I SH E
+                    1412 11  128    II OC R
+                    1412 11  211     I TR E
+                    1412 11 1959.3   I EC D
+                    1412 11 2325     I OC R
+                    1412 12 1452    II SH I
+                    1412 12 17 6    II TR I
+                    1412 12 1717     I SH I
+                    1412 12 1745    II SH E
+                    1412 12 1822     I TR I
+                    1412 12 1933     I SH E
+                    1412 12 20 0    II TR E
+                    1412 12 2038     I TR E
+                    1412 13  450.3  IV EC D
+                    1412 13  943.2  IV EC R
+                    1412 13 1427.7   I EC D
+                    1412 13 1522    IV OC D
+                    1412 13 1753     I OC R
+                    1412 13 2012    IV OC R
+                    1412 14  527   III SH I
+                    1412 14  9 3   III SH E
+                    1412 14  939.1  II EC D
+                    1412 14  949   III TR I
+                    1412 14 1145     I SH I
+                    1412 14 1249     I TR I
+                    1412 14 1325   III TR E
+                    1412 14 14 2     I SH E
+                    1412 14 1440    II OC R
+                    1412 14 15 5     I TR E
+                    1412 15  856.1   I EC D
+                    1412 15 1220     I OC R
+                    1412 16  410    II SH I
+                    1412 16  613     I SH I
+                    1412 16  619    II TR I
+                    1412 16  7 3    II SH E
+                    1412 16  716     I TR I
+                    1412 16  830     I SH E
+                    1412 16  913    II TR E
+                    1412 16  933     I TR E
+                    1412 17  324.6   I EC D
+                    1412 17  647     I OC R
+                    1412 17 1922.2 III EC D
+                    1412 17 2255.6  II EC D
+                    1412 17 23 1.2 III EC R
+                    1412 17 2337   III OC D
+                    1412 18  042     I SH I
+                    1412 18  143     I TR I
+                    1412 18  258     I SH E
+                    1412 18  317   III OC R
+                    1412 18  351    II OC R
+                    1412 18  4 0     I TR E
+                    1412 18 2153.0   I EC D
+                    1412 19  114     I OC R
+                    1412 19 1728    II SH I
+                    1412 19 1910     I SH I
+                    1412 19 1932    II TR I
+                    1412 19 2010     I TR I
+                    1412 19 2021    II SH E
+                    1412 19 2127     I SH E
+                    1412 19 2226    II TR E
+                    1412 19 2226     I TR E
+                    1412 20 1621.5   I EC D
+                    1412 20 1941     I OC R
+                    1412 21  924   III SH I
+                    1412 21 1212.1  II EC D
+                    1412 21 13 0   III SH E
+                    1412 21 1324   III TR I
+                    1412 21 1338     I SH I
+                    1412 21 1437     I TR I
+                    1412 21 1518    IV SH I
+                    1412 21 1555     I SH E
+                    1412 21 1653     I TR E
+                    1412 21 17 0   III TR E
+                    1412 21 17 2    II OC R
+                    1412 21 20 5    IV SH E
+                    1412 22  035    IV TR I
+                    1412 22  518    IV TR E
+                    1412 22 1049.9   I EC D
+                    1412 22 14 8     I OC R
+                    1412 23  645    II SH I
+                    1412 23  8 6     I SH I
+                    1412 23  843    II TR I
+                    1412 23  9 4     I TR I
+                    1412 23  939    II SH E
+                    1412 23 1023     I SH E
+                    1412 23 1120     I TR E
+                    1412 23 1137    II TR E
+                    1412 24  518.4   I EC D
+                    1412 24  835     I OC R
+                    1412 24 2321.3 III EC D
+                    1412 25  128.7  II EC D
+                    1412 25  235     I SH I
+                    1412 25  3 0.5 III EC R
+                    1412 25  312   III OC D
+                    1412 25  330     I TR I
+                    1412 25  451     I SH E
+                    1412 25  547     I TR E
+                    1412 25  612    II OC R
+                    1412 25  651   III OC R
+                    1412 25 2346.8   I EC D
+                    1412 26  3 2     I OC R
+                    1412 26 20 4    II SH I
+                    1412 26 21 3     I SH I
+                    1412 26 2155    II TR I
+                    1412 26 2157     I TR I
+                    1412 26 2257    II SH E
+                    1412 26 2320     I SH E
+                    1412 27  013     I TR E
+                    1412 27  049    II TR E
+                    1412 27 1815.3   I EC D
+                    1412 27 2128     I OC R
+                    1412 28 1321   III SH I
+                    1412 28 1445.2  II EC D
+                    1412 28 1531     I SH I
+                    1412 28 1623     I TR I
+                    1412 28 1654   III TR I
+                    1412 28 1658   III SH E
+                    1412 28 1748     I SH E
+                    1412 28 1840     I TR E
+                    1412 28 1922    II OC R
+                    1412 28 2031   III TR E
+                    1412 29 1243.8   I EC D
+                    1412 29 1555     I OC R
+                    1412 29 2249.9  IV EC D
+                    1412 30  343.2  IV EC R
+                    1412 30  7 5    IV OC D
+                    1412 30  921    II SH I
+                    1412 30 10 0     I SH I
+                    1412 30 1050     I TR I
+                    1412 30 11 5    II TR I
+                    1412 30 1153    IV OC R
+                    1412 30 1215    II SH E
+                    1412 30 1216     I SH E
+                    1412 30 13 7     I TR E
+                    1412 30 1359    II TR E
+                    1412 31  712.3   I EC D
+                    1412 31 1022     I OC R
+                    1412 32  319.6 III EC D
+                    1412 32  4 1.8  II EC D
+                    1412 32  428     I SH I
+                    1412 32  516     I TR I
+                    1412 32  645     I SH E
+                    1412 32  733     I TR E
+                    1412 32  831    II OC R
+                    1412 32 1020   III OC R
