@@ -8,7 +8,7 @@ InterEphem <- function(t){
   Ind <- which.max(Ephemeris$DateTime[Ephemeris$DateTime < t])
   InterFunRa <- approxfun(Ephemeris$DateTime[Ind:(Ind + 1)], y = Ephemeris$RightAscension[Ind:(Ind + 1)])
   InterFunDec <- approxfun(Ephemeris$DateTime[Ind:(Ind + 1)], y = Ephemeris$Declination[Ind:(Ind + 1)])
-  InterFunDist <- appbroxfun(Ephemeris$DateTime[Ind:(Ind + 1)], y = Ephemeris$Distance[Ind:(Ind + 1)])
+  InterFunDist <- approxfun(Ephemeris$DateTime[Ind:(Ind + 1)], y = Ephemeris$Distance[Ind:(Ind + 1)])
   ra <- InterFunRa(t)
   Dec <- InterFunDec(t)
   Dist <- InterFunDist(t)
